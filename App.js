@@ -3,8 +3,8 @@ import './App.css';
 import Recipes from './Recipes';
 import Search from './Search';
 
-const APP_ID = '';
-const APP_KEY = '';
+const APP_ID = '<Your own APP ID>';
+const APP_KEY = '<Your own APP KEY>';
 
 const App = () => {
 
